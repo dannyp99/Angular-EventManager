@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EventManagerAngular"
+    }
+  },
+  "defaultProject": "EventManagerAngular",
+  "cli": {
+    "analytics": "b1eff00b-92d2-4350-b668-8c895d389210"
+  }
 }
